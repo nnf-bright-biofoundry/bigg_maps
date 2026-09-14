@@ -66,7 +66,7 @@ from biggr_maps import __version__ as release  # noqa: E402
 
 doc_name = f"{project} Documentation"
 authors = "Pascal A. Pieters"
-description = """Easy access to the BiGGr API."""
+description = """Easy access to the BiGG API."""
 
 version = ".".join(release.split(".")[:2])
 author = authors

@@ -2,9 +2,9 @@ biggr_maps
 =========================
 
 Python library to generate Escher maps, mainly used for the 
-`BiGGr Models Repository`_.
+`BiGG Models Repository`_.
 
-.. _BiGGr Models Repository: https://biggr.org
+.. _BiGG Models Repository: https://bigg.bio
 
 .. toctree::
     :numbered: 3
