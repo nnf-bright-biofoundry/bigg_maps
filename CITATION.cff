@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "biggr_maps"
+version: "0.1.0"
+license: Apache-2.0
+repository-code: "https://github.com/nnf-bright-biofoundry/bigg_maps"
+description: "BiGG Models maps manipulation and visualization helpers (escher-based) for genome-scale metabolic models."
+authors:
+  - family-names: "Pieters"
+    given-names: "Pascal"
+    email: "paspie@biosustain.dtu.dk"
